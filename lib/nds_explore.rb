@@ -23,6 +23,4 @@ while row_index < directors_database[0][:movies].count do
 #end
 #pp directors_database[0][:movies][0][:title] #this got me the first Movie "Jaws"
 
-first_titles
-
 end
